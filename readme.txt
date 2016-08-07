@@ -4,4 +4,4 @@ git has a mutable index called stage
 git tracks changes
 git try merge fast forward
 git try dev merge
-12312313
+git try stash
