@@ -6,4 +6,4 @@ git try merge fast forward
 git try dev merge
 git try stash
 git try stash work and stage
-git try appoint stash agagin
+git try appoint stash
