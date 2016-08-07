@@ -8,3 +8,5 @@ git try stash
 git try stash work and stage
 git try appoint stash
 git try -u origin dev
+
+git try -u origin dev111
