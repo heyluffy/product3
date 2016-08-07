@@ -7,4 +7,4 @@ git try dev merge
 git try stash
 git try stash work and stage
 git try appoint stash
-git try dev111
+git try -u origin dev
